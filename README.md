@@ -3,7 +3,7 @@ A small demo library for a Medium publication about publishing libraries.
 
 ### Installation
 ```
-pip install medium-multiply
+pip install medium-multiply-x
 ```
 
 ### Get started
